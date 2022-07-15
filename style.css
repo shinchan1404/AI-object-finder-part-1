@@ -1,0 +1,40 @@
+#title{
+    background-color:black;
+    
+}
+
+h3{
+    font-size: 40px;
+    color: white;
+
+}
+p{
+    font-size: 25px;
+    color: white;
+    
+}
+
+#waste{
+    font-size: 25px;
+}
+
+#start{
+    font-size:25px;
+    color:black;
+}
+#status{
+    font-size:25px;
+    color:black;
+}
+#obj{
+    font-size:25px;
+    color:black;
+}
+canvas{
+    background-color: black;
+}
+canvas{
+    border-radius: 10px;
+
+    box-shadow: 3px 3px 3px 3px white;
+}
